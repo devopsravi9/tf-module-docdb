@@ -1,3 +1,3 @@
-output "DOCUMENT_DB" {
+output "DOC_DB" {
   value = aws_docdb_cluster.main.endpoint
 }
